@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently a student at Leeds Beckett University, studying Data Science and Artificial Intelligence. 
+D.Wesly6742@student.leedsbeckett.ac.uk 
 <!--
 **dellanwesly/dellanwesly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
