@@ -1,8 +1,9 @@
 ## Dellan Wesly
 
-My names Dellan Wesly and I am currently a student at Leeds Beckett University, studying Data Science and Artificial Intelligence. 
+My names Dellan Wesly and I am a currently first year student at Leeds Beckett University, studying Data Science and Artificial Intelligence. 
+I am interested in data analytics, artificial intelligence and programming 
 
-D.Wesly6742@student.leedsbeckett.ac.uk 
+You can find me at D.Wesly6742@student.leedsbeckett.ac.uk 
 <!--
 **dellanwesly/dellanwesly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
